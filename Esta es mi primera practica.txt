@@ -1,0 +1,7 @@
+Esta es mi primera practica
+
+creando una carpeta y archivo *.txt en VS Code
+
+desde la terminal
+
+soy Johan Pardo

@@ -1,4 +1,4 @@
-Esta es mi primera practica
+Este es mi primer cambio
 
 creando una carpeta y archivo *.txt en VS Code
 

@@ -1,7 +1,7 @@
-Este es mi primer cambio
+Este es mi segundo cambio
 
 creando una carpeta y archivo *.txt en VS Code
 
-desde la terminal
+desde la terminal para aprender
 
 soy Johan Pardo
